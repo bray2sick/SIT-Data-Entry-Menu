@@ -1,2 +1,2 @@
-# SIT-Data-Entry-Menu
+# SIT Data Entry Menu
 ICTPRG302 
